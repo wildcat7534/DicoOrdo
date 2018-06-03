@@ -3,7 +3,7 @@
     <property name="created">2018-06-03T08:46:28</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-06-03T10:22:52</property>
+    <property name="modified">2018-06-03T14:27:24</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <colors>
@@ -201,6 +201,11 @@
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="c7c7ff" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="54bccb" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -425,7 +430,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="66d9ef" />
+        <option name="FOREGROUND" value="5197cc" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -481,7 +486,7 @@
     <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="ae81ff" />
+        <option name="FOREGROUND" value="7f62c4" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -497,7 +502,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="66d9ef" />
+        <option name="FOREGROUND" value="469fdd" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
