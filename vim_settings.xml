@@ -11,8 +11,21 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528472688700">
+      <file name="/Python Console" timestamp="1528473346908">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Python/dico/fr_FR/main.dic" timestamp="1528473827417">
+        <mark key="[" line="41" column="10" />
+      </file>
+      <file name="/a.dummy" timestamp="1528473894198">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528474981543">
+        <mark key="[" line="11" column="29" />
+        <mark key="l" line="11" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -22,28 +35,41 @@
       <jump line="17" column="0" filename="C:/Python/OpenClass/pendu/Objet.py" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2FsdXQgPSBhZAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWYgX19pbml0X18oc2VsZik6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
+        <text encoding="base64">c2FsdXQgPSBhZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2FsdXQgPSBhCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
+      <register name="3" type="4">
+        <text>d
+salut = a</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCmNsYXNzIEh1bWFuQ2xhc3M6Cg==</text>
+        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCmNsYXNzIEh1bWFuQ2xhc3M6Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
-      <register name="6" type="8">
+      <register name="9" type="8">
         <text>self.pseudo = &quot;&quot;
 remplissage(self
 if self.pseudo !
@@ -52,17 +78,8 @@ self.pseudo += N
 FichePseudo(self
 print(&quot;Les joueu</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiTGVzIGpvdWV1cnMgc29udCA6IFxue30gISIuZm9ybWF0KHNlbGYucHNldWRvKSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiTGVzIGpvdWV1cnMgc29udCA6IFxue30gISIuZm9ybWF0KHNlbGYucHNldWRvKSkK</text>
-      </register>
       <register name=":" type="4">
         <text>q</text>
-      </register>
-      <register name="-" type="4">
-        <text>d</text>
       </register>
     </registers>
     <search>
@@ -90,6 +107,9 @@ print(&quot;Les joueu</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
