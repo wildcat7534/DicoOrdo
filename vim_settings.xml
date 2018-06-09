@@ -20,12 +20,12 @@
       <file name="/a.dummy" timestamp="1528473894198">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528475845609">
-        <mark key="[" line="15" column="29" />
-        <mark key="l" line="15" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="27" />
-        <mark key="." line="16" column="0" />
+      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528557915422">
+        <mark key="a" line="8" column="20" />
+        <mark key="'" line="17" column="26" />
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -33,50 +33,45 @@
       <jump line="14" column="5" filename="C:/Python/OpenClass/pendu/Objet.py" />
       <jump line="7" column="1" filename="C:/Python/OpenClass/pendu/Objet.py" />
       <jump line="17" column="0" filename="C:/Python/OpenClass/pendu/Objet.py" />
+      <jump line="18" column="26" filename="C:/Python/OpenClass/pendu/htmlcours.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2FsdXQgPSBhZAo=</text>
+      <register name="&quot;" type="4">
+        <text>.replace('', '_')</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.replace('', '_')</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWYgX19pbml0X18oc2VsZik6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2FsdXQgPSBhZAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXBhZ2UgPSAobWFwYWdlKS5yZXBsYWNlKCdkJwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">c2FsdXQgPSBhZAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">c2FsdXQgPSBhCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>d
 salut = a</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCmNsYXNzIEh1bWFuQ2xhc3M6Cg==</text>
+        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCmNsYXNzIEh1bWFuQ2xhc3M6Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>self.pseudo = &quot;&quot;
-remplissage(self
-if self.pseudo !
-    self.pseudo 
-self.pseudo += N
-FichePseudo(self
-print(&quot;Les joueu</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
