@@ -20,12 +20,13 @@
       <file name="/a.dummy" timestamp="1528473894198">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528621180269">
-        <mark key="a" line="19" column="20" />
-        <mark key="'" line="28" column="26" />
-        <mark key="[" line="9" column="49" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528622824535">
+        <mark key="a" line="24" column="20" />
+        <mark key="'" line="33" column="26" />
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="35" column="39" />
+        <mark key="." line="35" column="39" />
+        <mark key="^" line="35" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -36,11 +37,11 @@
       <jump line="18" column="26" filename="C:/Python/OpenClass/pendu/htmlcours.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>reponse</text>
       </register>
       <register name="-" type="4">
-        <text>.replace('', '_')</text>
+        <text>reponse</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWYgX19pbml0X18oc2VsZik6Cg==</text>
