@@ -20,7 +20,7 @@
       <file name="/a.dummy" timestamp="1528473894198">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528619743864">
+      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528621180269">
         <mark key="a" line="19" column="20" />
         <mark key="'" line="28" column="26" />
         <mark key="[" line="9" column="49" />
@@ -105,6 +105,9 @@ salut = a</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
