@@ -20,12 +20,12 @@
       <file name="/a.dummy" timestamp="1528473894198">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528558985975">
-        <mark key="a" line="11" column="20" />
-        <mark key="'" line="20" column="26" />
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="18" />
+      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528619743864">
+        <mark key="a" line="19" column="20" />
+        <mark key="'" line="28" column="26" />
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -36,8 +36,8 @@
       <jump line="18" column="26" filename="C:/Python/OpenClass/pendu/htmlcours.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.replace('', '_')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.replace('', '_')</text>
@@ -46,32 +46,32 @@
         <text encoding="base64">ICAgICAgICBkZWYgX19pbml0X18oc2VsZik6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBhZ2UgPSAobWFwYWdlKS5yZXBsYWNlKCdkJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2FsdXQgPSBhZAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXBhZ2UgPSAobWFwYWdlKS5yZXBsYWNlKCdkJwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">c2FsdXQgPSBhZAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">c2FsdXQgPSBhCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>d
 salut = a</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCmNsYXNzIEh1bWFuQ2xhc3M6Cg==</text>
+        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
+        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCmNsYXNzIEh1bWFuQ2xhc3M6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
