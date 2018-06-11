@@ -16,13 +16,13 @@
       <file name="/a.dummy" timestamp="1528473894198">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528705470528">
+      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528729243511">
         <mark key="a" line="27" column="20" />
         <mark key="'" line="37" column="48" />
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="44" column="23" />
-        <mark key="." line="45" column="14" />
-        <mark key="^" line="44" column="23" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -40,11 +40,11 @@
       <jump line="35" column="48" filename="C:/Python/OpenClass/pendu/htmlcours.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YS5sYW5ndWUgPSAiZmRyCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text>Human</text>
