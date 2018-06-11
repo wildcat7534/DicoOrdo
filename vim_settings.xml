@@ -16,12 +16,12 @@
       <file name="/a.dummy" timestamp="1528473894198">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528729243511">
+      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528729396011">
         <mark key="a" line="27" column="20" />
         <mark key="'" line="37" column="48" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
         <mark key="^" line="50" column="36" />
       </file>
     </filemarks>
@@ -40,8 +40,8 @@
       <jump line="35" column="48" filename="C:/Python/OpenClass/pendu/htmlcours.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQoYS5sYW5ndWUpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -50,32 +50,31 @@
         <text>Human</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YS5sYW5ndWUgPSAiZmRyCg==</text>
+        <text encoding="base64">cHJpbnQoYS5sYW5ndWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aDEgPSBIVFRQQ29ubmVjdGlvbigpCg==</text>
+        <text encoding="base64">YS5sYW5ndWUgPSAiZmRyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoaDEuZ2V0KCkpCg==</text>
+        <text encoding="base64">aDEgPSBIVFRQQ29ubmVjdGlvbigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW0K</text>
+        <text encoding="base64">cHJpbnQoaDEuZ2V0KCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBhZ2UgPSAobWFwYWdlKS5yZXBsYWNlKCdkJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2FsdXQgPSBhZAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXBhZ2UgPSAobWFwYWdlKS5yZXBsYWNlKCdkJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2FsdXQgPSBhCg==</text>
+        <text encoding="base64">c2FsdXQgPSBhZAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>d
-salut = a</text>
+      <register name="9" type="2">
+        <text encoding="base64">c2FsdXQgPSBhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
