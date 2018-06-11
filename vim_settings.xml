@@ -16,12 +16,13 @@
       <file name="/a.dummy" timestamp="1528473894198">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528733809613">
-        <mark key="a" line="27" column="20" />
-        <mark key="'" line="37" column="48" />
-        <mark key="[" line="43" column="9" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528736936394">
+        <mark key="a" line="28" column="20" />
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="56" column="35" />
+        <mark key="." line="56" column="35" />
+        <mark key="^" line="55" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -37,43 +38,44 @@
       <jump line="0" column="0" filename="C:/Python/OpenClass/pendu/Objet.py" />
       <jump line="20" column="8" filename="C:/Python/OpenClass/pendu/Objet.py" />
       <jump line="35" column="48" filename="C:/Python/OpenClass/pendu/htmlcours.py" />
+      <jump line="56" column="0" filename="C:/Python/OpenClass/pendu/htmlcours.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb250ZW51KQo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="0" type="4">
-        <text>Human</text>
+        <text>m.group(1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb250ZW51KQo=</text>
+        <text encoding="base64">aCA9IEhUVFBDb25uZWN0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQobWFyZXBvbmRkZGRzZSkK</text>
+        <text encoding="base64">cHJpbnQoZGQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoYS5sYW5ndWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb250ZW51KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YS5sYW5ndWUgPSAiZmRyCg==</text>
+        <text encoding="base64">cHJpbnQobWFyZXBvbmRkZGRzZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aDEgPSBIVFRQQ29ubmVjdGlvbigpCg==</text>
+        <text encoding="base64">cHJpbnQoYS5sYW5ndWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoaDEuZ2V0KCkpCg==</text>
+        <text encoding="base64">YS5sYW5ndWUgPSAiZmRyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW0K</text>
+        <text encoding="base64">aDEgPSBIVFRQQ29ubmVjdGlvbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoaDEuZ2V0KCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBhZ2UgPSAobWFwYWdlKS5yZXBsYWNlKCdkJwo=</text>
+        <text encoding="base64">bW0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
