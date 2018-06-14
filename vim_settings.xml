@@ -13,10 +13,11 @@
       <file name="C:/Python/dico/fr_FR/main.dic" timestamp="1528473827417">
         <mark key="[" line="41" column="10" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/dicoOrdo.py" timestamp="1528911836116">
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="C:/Python/OpenClass/pendu/dicoOrdo.py" timestamp="1528981441263">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1528473894198">
         <mark key="[" line="0" column="0" />
@@ -47,7 +48,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQodHlwZShmcnVpdHMuZGljbykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmRpY28gPSB7fQo=</text>
       </register>
       <register name="-" type="4">
         <text>pomme</text>
@@ -56,31 +57,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kaWNvID0ge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQodHlwZShmcnVpdHMuZGljbykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmRpY28gPSB7fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoZnJ1aXRzLnZhbHVlcykK</text>
+        <text encoding="base64">cHJpbnQodHlwZShmcnVpdHMuZGljbykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYua2V5W11kCg==</text>
+        <text encoding="base64">cHJpbnQoZnJ1aXRzLnZhbHVlcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYua2V5W11kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHNlbGYua2V5KSA+IDI6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaWNvID0ge30K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAZGljby5zZXR0ZXIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHNlbGYua2V5KSA+IDI6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkaWNvID0ge30K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBAZGljby5zZXR0ZXIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgKHNlbGYpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
