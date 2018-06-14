@@ -13,11 +13,11 @@
       <file name="C:/Python/dico/fr_FR/main.dic" timestamp="1528473827417">
         <mark key="[" line="41" column="10" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/dicoOrdo.py" timestamp="1528981441263">
-        <mark key="[" line="21" column="13" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+      <file name="C:/Python/OpenClass/pendu/dicoOrdo.py" timestamp="1528983062767">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="25" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1528473894198">
         <mark key="[" line="0" column="0" />
@@ -47,11 +47,11 @@
       <jump line="56" column="0" filename="C:/Python/OpenClass/pendu/htmlcours.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmRpY28gPSB7fQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBkaWNvID0ge30=</text>
       </register>
       <register name="-" type="4">
-        <text>pomme</text>
+        <text encoding="base64">ICAgICAgICBkaWNvID0ge30=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kaWNvID0ge30K</text>
