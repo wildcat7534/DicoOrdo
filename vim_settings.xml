@@ -19,11 +19,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/penducasino.py" timestamp="1529059815589">
-        <mark key="[" line="258" column="60" />
-        <mark key="]" line="140" column="23" />
-        <mark key="^" line="140" column="23" />
-        <mark key="." line="140" column="23" />
+      <file name="C:/Python/OpenClass/pendu/penducasino.py" timestamp="1529064572043">
+        <mark key="'" line="229" column="62" />
+        <mark key="[" line="235" column="20" />
+        <mark key="]" line="236" column="61" />
+        <mark key="^" line="236" column="61" />
+        <mark key="." line="236" column="61" />
       </file>
       <file name="/a.dummy" timestamp="1528473894198">
         <mark key="[" line="0" column="0" />
@@ -51,43 +52,55 @@
       <jump line="20" column="8" filename="C:/Python/OpenClass/pendu/Objet.py" />
       <jump line="35" column="48" filename="C:/Python/OpenClass/pendu/htmlcours.py" />
       <jump line="56" column="0" filename="C:/Python/OpenClass/pendu/htmlcours.py" />
+      <jump line="232" column="23" filename="C:/Python/OpenClass/pendu/penducasino.py" />
+      <jump line="229" column="62" filename="C:/Python/OpenClass/pendu/penducasino.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBkaWNvID0ge30=</text>
+        <text>ord))
+
+            if list(list_Xword) == liste_choix_du_motR:
+                print(&quot;Tu as gagné !!! :D &quot;)
+                print()
+                score</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICBkaWNvID0ge30=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kaWNvID0ge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGV0dHJlX3Byb3Bvc2VlIGluIGxpc3RlX2Nob2l4X2R1X21vdDoKICAgICAgICAgICAgICAgIGVtcGxhY2VtZW50X2xldHRyZSA9IGxpc3RlX2Nob2l4X2R1X21vdC5pbmRleChsZXR0cmVfcHJvcG9zZWUpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmRpY28gPSB7fQo=</text>
+      <register name="1" type="4">
+        <text>ord))
+
+            if list(list_Xword) == liste_choix_du_motR:
+                print(&quot;Tu as gagné !!! :D &quot;)
+                print()
+                score</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQodHlwZShmcnVpdHMuZGljbykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmRpY28gPSB7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoZnJ1aXRzLnZhbHVlcykK</text>
+        <text encoding="base64">cHJpbnQodHlwZShmcnVpdHMuZGljbykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYua2V5W11kCg==</text>
+        <text encoding="base64">cHJpbnQoZnJ1aXRzLnZhbHVlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYua2V5W11kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHNlbGYua2V5KSA+IDI6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaWNvID0ge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHNlbGYua2V5KSA+IDI6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAZGljby5zZXR0ZXIK</text>
+        <text encoding="base64">ICAgICAgICBkaWNvID0ge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAZGljby5zZXR0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
