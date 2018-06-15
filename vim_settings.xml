@@ -19,8 +19,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/penducasino.py" timestamp="1528985543421">
-        <mark key="[" line="139" column="34" />
+      <file name="C:/Python/OpenClass/pendu/penducasino.py" timestamp="1529059815589">
+        <mark key="[" line="258" column="60" />
         <mark key="]" line="140" column="23" />
         <mark key="^" line="140" column="23" />
         <mark key="." line="140" column="23" />
@@ -124,6 +124,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
