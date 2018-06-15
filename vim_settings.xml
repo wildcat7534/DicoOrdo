@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="C:/Python/OpenClass/pendu/Objet.py" timestamp="1528986316132">
@@ -19,14 +19,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/penducasino.py" timestamp="1529064572043">
-        <mark key="'" line="229" column="62" />
-        <mark key="[" line="235" column="20" />
-        <mark key="]" line="236" column="61" />
-        <mark key="^" line="236" column="61" />
-        <mark key="." line="236" column="61" />
+      <file name="C:/Python/OpenClass/pendu/penducasino.py" timestamp="1529065473587">
+        <mark key="'" line="231" column="62" />
+        <mark key="[" line="184" column="24" />
+        <mark key="]" line="184" column="23" />
+        <mark key="^" line="184" column="23" />
+        <mark key="." line="184" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1528473894198">
+      <file name="/a.dummy" timestamp="1529064988630">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528736936394">
@@ -140,6 +140,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
