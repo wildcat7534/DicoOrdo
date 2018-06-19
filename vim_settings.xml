@@ -17,13 +17,20 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
+      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1529414942013">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="C:/Python/dico/fr_FR/main.dic" timestamp="1528473827417">
         <mark key="[" line="41" column="10" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/dicoOrdo.py" timestamp="1529413459497">
-        <mark key="[" line="85" column="19" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="C:/Python/OpenClass/pendu/dicoOrdo.py" timestamp="1529414233709">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="58" column="47" />
+        <mark key="." line="57" column="13" />
+        <mark key="^" line="57" column="13" />
       </file>
       <file name="C:/Python/OpenClass/pendu/penducasino.py" timestamp="1529065473587">
         <mark key="'" line="231" column="62" />
@@ -68,43 +75,45 @@
       <jump line="16" column="0" filename="C:/Python/OpenClass/pendu/ConstructeurInit.py" />
       <jump line="4" column="8" filename="C:/Python/OpenClass/pendu/ConstructeurInit.py" />
       <jump line="14" column="0" filename="C:/Python/OpenClass/pendu/ConstructeurInit.py" />
+      <jump line="16" column="12" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
+      <jump line="0" column="0" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoaXNpbnN0YW5jZShmcnVpdHMsIGRpY3QpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKCJMZSBkaWNvIHsxfSBlc3QgLT4gezB9ICIuZm9ybWF0KHNlbGYub2JqZWN0LCBzZWxmLmRpY28pICkK</text>
       </register>
       <register name="-" type="4">
         <text>print('construction de la classe')</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGV0dHJlX3Byb3Bvc2VlIGluIGxpc3RlX2Nob2l4X2R1X21vdDoKICAgICAgICAgICAgICAgIGVtcGxhY2VtZW50X2xldHRyZSA9IGxpc3RlX2Nob2l4X2R1X21vdC5pbmRleChsZXR0cmVfcHJvcG9zZWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAjIHNlbGYuX2RpY29ba2V5XSA9IHZhbHVlCiAgICAgICAgIyAgICAgKHNlbGYuX2RpY28pLnVwZGF0ZSh7a2V5OiB2YWx1ZX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoaXNpbnN0YW5jZShmcnVpdHMsIGRpY3QpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKCJMZSBkaWNvIHsxfSBlc3QgLT4gezB9ICIuZm9ybWF0KHNlbGYub2JqZWN0LCBzZWxmLmRpY28pICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kaWNvW2tleV0gPSB2YWx1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoaXNpbnN0YW5jZShmcnVpdHMsIGRpY3QpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZD0gZGljbwo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAoc2VsZi5fZGljbykudXBkYXRlKHtrZXk6IHZhbHVlfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoc2Vjb25kLmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAjIHNlbGYuX2RpY29ba2V5XSA9IHZhbHVlCiAgICAgICAgIyAgICAgKHNlbGYuX2RpY28pLnVwZGF0ZSh7a2V5OiB2YWx1ZX0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoaXNpbnN0YW5jZShwcmVtaWVyLCBOb21EZUxhQ2xhc3NlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoaXNpbnN0YW5jZShmcnVpdHMsIGRpY3QpKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2Vjb25kID0gTm9tRGVMYUNsYXNzZShpZCA9IDEwKQo=</text>
+        <text encoding="base64">cHJpbnQoaXNpbnN0YW5jZShmcnVpdHMsIGRpY3QpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
