@@ -20,11 +20,10 @@
       <file name="C:/Python/dico/fr_FR/main.dic" timestamp="1528473827417">
         <mark key="[" line="41" column="10" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/dicoOrdo.py" timestamp="1529397687343">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="64" column="0" />
+      <file name="C:/Python/OpenClass/pendu/dicoOrdo.py" timestamp="1529413459497">
+        <mark key="[" line="85" column="19" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="C:/Python/OpenClass/pendu/penducasino.py" timestamp="1529065473587">
         <mark key="'" line="231" column="62" />
@@ -72,45 +71,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoc2Vjb25kLmlkKQo=</text>
+        <text encoding="base64">cHJpbnQoaXNpbnN0YW5jZShmcnVpdHMsIGRpY3QpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBkaWNvID0ge30=</text>
+        <text>print('construction de la classe')</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgbGV0dHJlX3Byb3Bvc2VlIGluIGxpc3RlX2Nob2l4X2R1X21vdDoKICAgICAgICAgICAgICAgIGVtcGxhY2VtZW50X2xldHRyZSA9IGxpc3RlX2Nob2l4X2R1X21vdC5pbmRleChsZXR0cmVfcHJvcG9zZWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoc2Vjb25kLmlkKQo=</text>
+        <text encoding="base64">cHJpbnQoaXNpbnN0YW5jZShmcnVpdHMsIGRpY3QpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoaXNpbnN0YW5jZShwcmVtaWVyLCBOb21EZUxhQ2xhc3NlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoaXNpbnN0YW5jZShmcnVpdHMsIGRpY3QpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kZD0gZGljbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2Vjb25kID0gTm9tRGVMYUNsYXNzZShpZCA9IDEwKQo=</text>
+        <text encoding="base64">cHJpbnQoc2Vjb25kLmlkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJlbWllciA9IE5vbURlTGFDbGFzc2UoaWQgPSA1KQo=</text>
+        <text encoding="base64">cHJpbnQoaXNpbnN0YW5jZShwcmVtaWVyLCBOb21EZUxhQ2xhc3NlKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnY29uc3RydWN0aW9uIGRlIGxhIGNsYXNzZScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>ord))
-
-            if list(list_Xword) == liste_choix_du_motR:
-                print(&quot;Tu as gagné !!! :D &quot;)
-                print()
-                score</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmRpY28gPSB7fQo=</text>
+        <text encoding="base64">c2Vjb25kID0gTm9tRGVMYUNsYXNzZShpZCA9IDEwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
