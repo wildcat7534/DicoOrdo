@@ -17,12 +17,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1529489654271">
+      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1529492048849">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="53" />
-        <mark key="]" line="18" column="53" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="18" column="53" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="C:/Python/dico/fr_FR/main.dic" timestamp="1528473827417">
         <mark key="[" line="41" column="10" />
@@ -77,44 +77,45 @@
       <jump line="4" column="8" filename="C:/Python/OpenClass/pendu/ConstructeurInit.py" />
       <jump line="14" column="0" filename="C:/Python/OpenClass/pendu/ConstructeurInit.py" />
       <jump line="16" column="12" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
+      <jump line="7" column="0" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
       <jump line="0" column="0" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmID0gbGVuKChzZWxmLmRpY28pLml0ZW1zKCkpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAjIHNlbGYuX2RpY29ba2V5XSA9IHZhbHVlCiAgICAgICAgIyAgICAgKHNlbGYuX2RpY28pLnVwZGF0ZSh7a2V5OiB2YWx1ZX0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzb3J0ZWQoc2VsZi5kaWNvLCBrZXk9aXRlbWdldHRlcigwKSksIHNlbGYuZGljbykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2RkCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmID0gbGVuKChzZWxmLmRpY28pLml0ZW1zKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKCJMZSBkaWNvIHsxfSBlc3QgLT4gezB9ICIuZm9ybWF0KHNlbGYub2JqZWN0LCBzZWxmLmRpY28pICkK</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBzb3J0ZWQoc2VsZi5kaWNvLCBrZXk9aXRlbWdldHRlcigwKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kaWNvW2tleV0gPSB2YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzb3J0ZWQoc2VsZi5kaWNvLCBrZXk9aXRlbWdldHRlcigwKSksIHNlbGYuZGljbykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2RkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAoc2VsZi5fZGljbykudXBkYXRlKHtrZXk6IHZhbHVlfSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKCJMZSBkaWNvIHsxfSBlc3QgLT4gezB9ICIuZm9ybWF0KHNlbGYub2JqZWN0LCBzZWxmLmRpY28pICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAjIHNlbGYuX2RpY29ba2V5XSA9IHZhbHVlCiAgICAgICAgIyAgICAgKHNlbGYuX2RpY28pLnVwZGF0ZSh7a2V5OiB2YWx1ZX0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kaWNvW2tleV0gPSB2YWx1ZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoaXNpbnN0YW5jZShmcnVpdHMsIGRpY3QpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAoc2VsZi5fZGljbykudXBkYXRlKHtrZXk6IHZhbHVlfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAjIHNlbGYuX2RpY29ba2V5XSA9IHZhbHVlCiAgICAgICAgIyAgICAgKHNlbGYuX2RpY28pLnVwZGF0ZSh7a2V5OiB2YWx1ZX0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
