@@ -17,11 +17,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1529513406380">
+      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1529580392277">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="28" column="17" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="C:/Python/dico/fr_FR/main.dic" timestamp="1528473827417">
         <mark key="[" line="41" column="10" />
@@ -81,41 +82,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuZGljb1trZXldID2yZGSyIHZhbHVlCg==</text>
+        <text encoding="base64">cHJpbnQodHlwZShmcnVpdCkpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="4">
-        <text>(self, dico2):
-        for a</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQodHlwZShmcnVpdCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuZGljb1trZXldID2yZGSyIHZhbHVlCg==</text>
+        <text encoding="base64">cHJpbnQodHlwZShmcnVpdCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kaWNvLnVwZGF0ZShkaWNvMikK</text>
+        <text encoding="base64">cHJpbnQodHlwZShmcnVpdCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBwcmludChsZW4obGVndW1lKSkK</text>
+        <text encoding="base64">bGVndW1lID0gRGljb09yZG8oc2FsYWRlID0gMTEsIGNvdXJnZXR0ZSA9IDQwLCByYWRpcyA9IDYwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBwcmludChmcnVpdCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuZGljb1trZXldID2yZGSyIHZhbHVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwcmludChsZWd1bWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kaWNvLnVwZGF0ZShkaWNvMikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWFnYXNpbiA9IGZydWl0Cg==</text>
+        <text encoding="base64">IyBwcmludChsZW4obGVndW1lKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWFnYXNpbiArPSBsZWd1bWUK</text>
+        <text encoding="base64">IyBwcmludChmcnVpdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQodHlwZShsZWd1bWUpKQo=</text>
+        <text encoding="base64">IyBwcmludChsZWd1bWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmID0gbGVuKChzZWxmLmRpY28pLml0ZW1zKCkpCg==</text>
+        <text encoding="base64">bWFnYXNpbiA9IGZydWl0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
