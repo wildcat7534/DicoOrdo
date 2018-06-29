@@ -3,19 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Python/OpenClass/pendu/Objet.py" timestamp="1528986316132">
-        <mark key="'" line="20" column="8" />
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="23" column="22" />
+      <file name="C:/Python/OpenClass/pendu/roboc.py" timestamp="1530283199524">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/ConstructeurInit.py" timestamp="1529400210660">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="/Python Console" timestamp="1530284988666">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1530108284941">
         <mark key="'" line="10" column="22" />
@@ -24,12 +18,6 @@
       </file>
       <file name="C:/Python/dico/fr_FR/main.dic" timestamp="1528473827417">
         <mark key="[" line="41" column="10" />
-      </file>
-      <file name="C:/Python/OpenClass/pendu/dicoOrdo.py" timestamp="1529414233709">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="47" />
-        <mark key="." line="57" column="13" />
-        <mark key="^" line="57" column="13" />
       </file>
       <file name="C:/Python/OpenClass/pendu/penducasino.py" timestamp="1529065473587">
         <mark key="'" line="231" column="62" />
@@ -55,6 +43,33 @@
         <mark key="." line="56" column="35" />
         <mark key="^" line="55" column="7" />
       </file>
+      <file name="C:/Python/OpenClass/robot/robotc.py" timestamp="1530285909892">
+        <mark key="'" line="8" column="65" />
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/Objet.py" timestamp="1528986316132">
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/ConstructeurInit.py" timestamp="1529400210660">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/dicoOrdo.py" timestamp="1529414233709">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="58" column="47" />
+        <mark key="." line="57" column="13" />
+        <mark key="^" line="57" column="13" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/fonctionsPenduCasino.py" timestamp="1530282898954" />
     </filemarks>
     <jumps>
       <jump line="18" column="0" filename="C:/Python/OpenClass/pendu/Objet.py" />
@@ -87,55 +102,57 @@
       <jump line="51" column="0" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
       <jump line="9" column="10" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
       <jump line="10" column="22" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
+      <jump line="10" column="13" filename="C:/Python/OpenClass/robot/robotc.py" />
+      <jump line="9" column="65" filename="C:/Python/OpenClass/robot/robotc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKCJ7MH0iLmZvcm1hdChzZWxmLmRpY28pKQo=</text>
+        <text encoding="base64">ZmFjaWxlID0gJ2QnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>repla</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaWNvXD4=</text>
+        <text encoding="base64">XDxmaWNoaWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKCJ7MH0iLmZvcm1hdChzZWxmLmRpY28pKQo=</text>
+        <text encoding="base64">cHJpbnQoZmFjaWxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaWNvID0ge30K</text>
+        <text encoding="base64">ZmFjaWxlID0gJ2QnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IGQgICAgICAgZGljbyA9e30K</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBwcmludChsaXN0LnNwbGl0KCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5pdGVtc19saXN0LmFwcGVuZHBwZW5kKGl0ZW0pCg==</text>
+        <text encoding="base64">IyBmb3IgbGluZSBpbiBsaXN0Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJ1aXQgPSBbImZyYWlzZSIsIDIwXQo=</text>
+        <text encoding="base64">IyBsaXN0ID0gIidiYScsICdibycsJ2J1JyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGVndW1lID0gWyJzYWxhZGUiLCAxNSBdCg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJ1aXQuYWpvdXQoKQo=</text>
+        <text encoding="base64">ICAgIHBpY2tsZS5kdW1wKGZhY2lsZSwgZmljaGllcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtcyA9ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWNvID0ge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGYuaWVtcyA9ICcnCg==</text>
+        <text encoding="base64">IGQgICAgICAgZGljbyA9e30K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaWNvXD4=</last-search>
+      <last-search encoding="base64">XDxmaWNoaWVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaWNvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaWNoaWVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -143,6 +160,7 @@
       <history-search>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxkaWNvXD4=</entry>
+        <entry encoding="base64">XDxmaWNoaWVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
