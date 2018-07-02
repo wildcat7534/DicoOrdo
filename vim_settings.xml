@@ -3,17 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/Python/OpenClass/pendu/Objet.py" timestamp="1528986316132">
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/ConstructeurInit.py" timestamp="1529400210660">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="C:/Python/OpenClass/pendu/roboc.py" timestamp="1530283199524">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530442949400">
+      <file name="/Python Console" timestamp="1530518732641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1530442807919">
-        <mark key="'" line="10" column="22" />
-        <mark key="[" line="42" column="46" />
+      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1530518817902">
+        <mark key="'" line="4" column="25" />
+        <mark key="[" line="42" column="38" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
@@ -26,6 +40,12 @@
         <mark key="]" line="184" column="23" />
         <mark key="^" line="184" column="23" />
         <mark key="." line="184" column="23" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/dicoOrdo.py" timestamp="1529414233709">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="58" column="47" />
+        <mark key="." line="57" column="13" />
+        <mark key="^" line="57" column="13" />
       </file>
       <file name="/a.dummy" timestamp="1529397610076">
         <mark key="[" line="0" column="0" />
@@ -49,26 +69,6 @@
         <mark key="[" line="15" column="9" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="C:/Python/OpenClass/pendu/Objet.py" timestamp="1528986316132">
-        <mark key="'" line="20" column="8" />
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-      </file>
-      <file name="C:/Python/OpenClass/pendu/ConstructeurInit.py" timestamp="1529400210660">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
-      <file name="C:/Python/OpenClass/pendu/dicoOrdo.py" timestamp="1529414233709">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="47" />
-        <mark key="." line="57" column="13" />
-        <mark key="^" line="57" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -104,6 +104,8 @@
       <jump line="10" column="22" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
       <jump line="10" column="13" filename="C:/Python/OpenClass/robot/robotc.py" />
       <jump line="9" column="65" filename="C:/Python/OpenClass/robot/robotc.py" />
+      <jump line="42" column="33" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
+      <jump line="4" column="25" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -113,7 +115,7 @@
         <text>repla</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWNoaWVyXD4=</text>
+        <text encoding="base64">XDxkaWNvXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChzb3J0ZWQoKHNlbGYuZGljbykuaXRlbXMoKSwga2V5PWxhbWJkYSB0OiB0WzBdKSkK</text>
@@ -150,17 +152,17 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWNoaWVyXD4=</last-search>
+      <last-search encoding="base64">XDxkaWNvXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWNoaWVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkaWNvXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
-        <entry encoding="base64">XDxkaWNvXD4=</entry>
         <entry encoding="base64">XDxmaWNoaWVyXD4=</entry>
+        <entry encoding="base64">XDxkaWNvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
