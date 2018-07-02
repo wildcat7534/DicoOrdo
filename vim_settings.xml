@@ -25,12 +25,12 @@
       <file name="/Python Console" timestamp="1530518732641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1530535140676">
+      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1530536590791">
         <mark key="'" line="4" column="25" />
-        <mark key="[" line="43" column="17" />
-        <mark key="]" line="43" column="17" />
-        <mark key="^" line="43" column="16" />
-        <mark key="." line="43" column="17" />
+        <mark key="[" line="52" column="27" />
+        <mark key="]" line="43" column="18" />
+        <mark key="." line="43" column="18" />
+        <mark key="^" line="43" column="18" />
       </file>
       <file name="C:/Python/dico/fr_FR/main.dic" timestamp="1528473827417">
         <mark key="[" line="41" column="10" />
@@ -110,7 +110,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KG5ld2RpY28pCiAgICAgICAgIyBwcmludCgiU2FsdXQgPyIp</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -124,32 +124,32 @@ fruit['fraise'] = 12
 fruit['raisin'] = 5
 fruit['carotte'] = 10</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5ld2RpY28gPSBzZWxmLmRpY29ba2V5XQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAjIHByaW50KG5ld2RpY28pCiAgICAgICAgIyBwcmludCgiU2FsdXQgPyIp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuZGljbzEgPSBzZWxmLmRpY28K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5ld2RpY28gPSBzb3J0ZWQoc2VsZi5kaWNvLml0ZW1zKCksIGtleT1sYW1iZGEoayx2KToodixrKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5ld2RpY28gPSBzZWxmLmRpY29ba2V5XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmtleSA9IHNvcnRlZCgoc2VsZi5kaWNvKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIyAuaXRlbXMoKSwga2V5PWxhbWJkYSB0OiB0WzBdKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5ld2RpY28gPSBzb3J0ZWQoc2VsZi5kaWNvLml0ZW1zKCksIGtleT1sYW1iZGEoayx2KToodixrKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzb3J0ZWQoKHNlbGYuZGljbykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmtleSA9IHNvcnRlZCgoc2VsZi5kaWNvKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIyAuaXRlbXMoKSwga2V5PWxhbWJkYSB0OiB0WzBdKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBzZXRhdHRyKChzZWxmLmRpY28pLnVwZGF0ZSh7a2V5OiB2YWx1ZXN9KSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzb3J0ZWQoKHNlbGYuZGljbykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBrZXkgPSBrZXkxCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
