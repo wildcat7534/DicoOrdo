@@ -22,7 +22,7 @@ lesson 2
 		Copied from a dictionary: we pass as a parameter of the constructor 
 		a dictionary that we copy later in our object. One can thus write constructor 
 		(dictionary) and the keys and values ​​contained in the dictionary are copied in
-		the constructed object.    ## I did'nt made it :/
+		the constructed object.   --->  ## I did'nt made it :/
 
 		Pre-filled thanks to keys and values ​​passed in parameter: like the usual dictionaries,
 		one must here have the possibility of pre-filling our object with key-values ​​pairs passed 
@@ -50,7 +50,7 @@ lesson 2
 	be done according to the keys.
 
  1. The object must be able to be traveled. When one writes for a dictionary, one has to go through the
-	list of keys contained in the dictionary. ## I did'nt made it too :/
+	list of keys contained in the dictionary.       ---> ## I did'nt made it too :/
 
  1. Like the dictionaries, three methods keys () (returning the list of keys), values ​​() (returning the
 	list of values) and items () (returning couples (key, value)) must be implemented. The return type 
