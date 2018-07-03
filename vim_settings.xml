@@ -25,11 +25,13 @@
       <file name="/Python Console" timestamp="1530518732641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1530607654994">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="66" column="20" />
-        <mark key="]" line="66" column="20" />
-        <mark key="." line="66" column="20" />
+      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1530609494819">
+        <mark key="p" line="47" column="8" />
+        <mark key="'" line="51" column="15" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="19" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="18" />
       </file>
       <file name="C:/Python/dico/fr_FR/main.dic" timestamp="1528473827417">
         <mark key="[" line="41" column="10" />
@@ -107,59 +109,57 @@
       <jump line="42" column="33" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
       <jump line="4" column="25" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
       <jump line="48" column="8" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
+      <jump line="52" column="15" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>newdico</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bGVndW1lID0gRGljb09yZG8oKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>newdico</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaWNvXD4=</text>
+        <text encoding="base64">XDxsaXN0MVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>fruit['banane'] = 27
-fruit['fraise'] = 12
-fruit['raisin'] = 5
-fruit['carotte'] = 10</text>
+      <register name="0" type="2">
+        <text encoding="base64">bGVndW1lID0gRGljb09yZG8oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuZGljbyA9IHtrOiB2IGZvciBrLHYgaW4gdGVtcF9saXN0fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsaXN0MSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCgie306IHt9Ii5mb3JtYXQodmFsdWUsIHNlbGYuZGljbykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBrLHYgaW4gbGlzdDE6CiAgICAgICAgICAgICMgc2VsZi5kaWNvW2tdID0gdgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBuZXdkaWNvLnVwZGF0ZSh7W2tleV06ICh2YWwpfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjICkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KG5ld2RpY28pCiAgICAgICAgIyBwcmludCgiU2FsdXQgPyIp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuZGljbzEgPSBzZWxmLmRpY28K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludChrZXksIHZhbHVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5ld2RpY28gPSBzZWxmLmRpY29ba2V5XQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBrZXksdmFsdWUgaW4gKChzZWxmKS5pdGVtcygpKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuZGljbyA9IGRpY3QobGlzdDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5ld2RpY28gPSBzb3J0ZWQoc2VsZi5kaWNvLml0ZW1zKCksIGtleT1sYW1iZGEoayx2KToodixrKSkK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBwcmludCgie306IHt9Ii5mb3JtYXQoa2V5LCB2YWwpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaWNvXD4=</last-search>
+      <last-search encoding="base64">XDxsaXN0MVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaWNvXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxsaXN0MVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -167,6 +167,7 @@ fruit['carotte'] = 10</text>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxmaWNoaWVyXD4=</entry>
         <entry encoding="base64">XDxkaWNvXD4=</entry>
+        <entry encoding="base64">XDxsaXN0MVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
