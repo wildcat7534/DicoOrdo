@@ -67,6 +67,7 @@ class DicoOrdo(object):
 
 
 fruit = DicoOrdo()
+print("\n", fruit, " <--Dict vide\n".upper())
 legume = DicoOrdo(carotte = 26, haricot = 48)
 magasin = DicoOrdo()
 fruit['pomme'] = 52
@@ -77,14 +78,12 @@ fruit['banane'] = 153
 legume['poivron'] = 29
 legume['salade'] = 11
 
-print("\n", fruit, " <--Dict vide\n".upper())
-
 print(fruit," <--Fruits normal.\n".upper())
 
 fruit.sortByKey()
 print(fruit, " <--fruits ordonnés par key.\n".upper())
 
-magasin.dico = fruit + legume
+magasin = fruit + legume
 print(magasin, " <--tout le magasin.\n".upper())
 
 magasin.sortByKeyReversed()
