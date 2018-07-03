@@ -14,7 +14,7 @@ lesson 2
  
   * making a Class who works like a Dict
   
- l. We must be able to create the dictionary in several ways:
+ 1. We must be able to create the dictionary in several ways:
 
 		Empty: the constructor is called without passing any parameters
 		to it and the created dictionary is empty.
@@ -28,7 +28,7 @@ lesson 2
 		one must here have the possibility of pre-filling our object with key-values ​​pairs passed 
 		in parameter (constructor (cle1 = value1, cle2 = value2, ...)).
 
- l. Keys and values ​​must be paired. In other words, if one tries to delete a key, the corresponding
+ 1. Keys and values ​​must be paired. In other words, if one tries to delete a key, the corresponding
 	value must also be deleted. The keys and values ​​are in lists of the same size, it will be enough 
 	to take the index in a list to know which object corresponds to it in the other. For example, the 
 	index key 0 is coupled with the index value 0.
