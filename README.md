@@ -41,21 +41,21 @@ lesson 2
 
  1. We must be able to know thanks to the keyword in if a key is in our dictionary (key in dictionary).
 
- l. We must be able to request the size of the dictionary with the len function.
+ 1. We must be able to request the size of the dictionary with the len function.
 
- l. We must be able to display our dictionary directly in the interpreter or through the print function.
+ 1. We must be able to display our dictionary directly in the interpreter or through the print function.
 	The display must be similar to that of the usual dictionaries ({cle1: value1, cle2: value2, ...}).
 
- l. The object must set the sort methods to sort and reverse to reverse. The sorting of the object must
+ 1. The object must set the sort methods to sort and reverse to reverse. The sorting of the object must
 	be done according to the keys.
 
- l. The object must be able to be traveled. When one writes for a dictionary, one has to go through the
+ 1. The object must be able to be traveled. When one writes for a dictionary, one has to go through the
 	list of keys contained in the dictionary. ## I did'nt made it too :/
 
- l. Like the dictionaries, three methods keys () (returning the list of keys), values ​​() (returning the
+ 1. Like the dictionaries, three methods keys () (returning the list of keys), values ​​() (returning the
 	list of values) and items () (returning couples (key, value)) must be implemented. The return type 
 	of these methods is left to your initiative: it can be iterators or generators (as long as you can
 	browse them).
 
- l. We must be able to add two ordered dictionaries (dico1 + dico2); the keys and values ​​of the second 
+ 1. We must be able to add two ordered dictionaries (dico1 + dico2); the keys and values ​​of the second 
 	dictionary are added to the first.
