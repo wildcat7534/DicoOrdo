@@ -25,11 +25,12 @@
       <file name="/Python Console" timestamp="1530518732641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1530540637797">
+      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1530607178266">
         <mark key="'" line="48" column="8" />
-        <mark key="[" line="59" column="22" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+        <mark key="[" line="54" column="29" />
+        <mark key="]" line="54" column="27" />
+        <mark key="." line="54" column="27" />
+        <mark key="^" line="54" column="27" />
       </file>
       <file name="C:/Python/dico/fr_FR/main.dic" timestamp="1528473827417">
         <mark key="[" line="41" column="10" />
@@ -109,11 +110,11 @@
       <jump line="48" column="8" filename="C:/Python/OpenClass/pendu/DicoOrdo2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsaXN0MSkK</text>
+      <register name="&quot;" type="4">
+        <text>items(</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>items(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWNvXD4=</text>
