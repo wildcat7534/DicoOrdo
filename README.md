@@ -33,13 +33,13 @@ lesson 2
 	to take the index in a list to know which object corresponds to it in the other. For example, the 
 	index key 0 is coupled with the index value 0.
 
- l. we must be able to interact with our container object thanks to the square brackets, to recover a
+ 1. we must be able to interact with our container object thanks to the square brackets, to recover a
 	value (object [cle]), to modify it (object [cle] = value) or to remove it (del object [cle]).
 
- l. When we try to modify a value, if the key exists we overwrite the old value, if it does not exist
+ 1. When we try to modify a value, if the key exists we overwrite the old value, if it does not exist
 	we add the key-value pair at the end of the dictionary.
 
- l. We must be able to know thanks to the keyword in if a key is in our dictionary (key in dictionary).
+ 1. We must be able to know thanks to the keyword in if a key is in our dictionary (key in dictionary).
 
  l. We must be able to request the size of the dictionary with the len function.
 
