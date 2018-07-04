@@ -1,0 +1,179 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/Python/OpenClass/pendu/roboc.py" timestamp="1530283199524">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1530518732641">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/DicoOrdo2.py" timestamp="1530630464109">
+        <mark key="p" line="46" column="8" />
+        <mark key="'" line="50" column="15" />
+        <mark key="i" line="53" column="20" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Python/dico/fr_FR/main.dic" timestamp="1528473827417">
+        <mark key="[" line="41" column="10" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/penducasino.py" timestamp="1529065473587">
+        <mark key="'" line="231" column="62" />
+        <mark key="[" line="184" column="24" />
+        <mark key="]" line="184" column="23" />
+        <mark key="^" line="184" column="23" />
+        <mark key="." line="184" column="23" />
+      </file>
+      <file name="/a.dummy" timestamp="1529397610076">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/DicoOrdo3.py" timestamp="1530628552851">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="15" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/htmlcours.py" timestamp="1528736936394">
+        <mark key="a" line="28" column="20" />
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="56" column="35" />
+        <mark key="." line="56" column="35" />
+        <mark key="^" line="55" column="7" />
+      </file>
+      <file name="C:/Python/OpenClass/robot/robotc.py" timestamp="1530285909892">
+        <mark key="'" line="8" column="65" />
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/" timestamp="1530620980074">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/Objet.py" timestamp="1528986316132">
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/ConstructeurInit.py" timestamp="1529400210660">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="C:/Python/OpenClass/pendu/dicoOrdo.py" timestamp="1529414233709">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="58" column="47" />
+        <mark key="." line="57" column="13" />
+        <mark key="^" line="57" column="13" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>melon</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxsaXN0MVw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJ1aXRbJ21lbG9uJ10gPSAxNQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBvcGVyYXRvciBpbXBvcnQgaXRlbWdldHRlcgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJ1aXRbJ2ZyYWlzZSddID0gNDUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJ1aXRbJ2JhbmFuZSddID0gMzIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJ1aXRbJ3JhaXNpbiddID0gMTIwCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJ1aXRbJ2Nhcm90dGUnXSA9IDEwCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">bGVndW1lWydoYXJpY290J10gPSAxMAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIHByaW50KHRvdGFsaykK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxsaXN0MVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxsaXN0MVw+</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxmaWNoaWVyXD4=</entry>
+        <entry encoding="base64">XDxkaWNvXD4=</entry>
+        <entry encoding="base64">XDxsaXN0MVw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>w</entry>
+        <entry>==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
