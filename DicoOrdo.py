@@ -67,6 +67,7 @@ class DicoOrdo(object):
 
 
 fruit = DicoOrdo()
+print(fruit)
 print("\n", fruit, " <--Dict vide.\n".upper())
 legume = DicoOrdo(carotte = 26, haricot = 48)
 magasin = DicoOrdo()
